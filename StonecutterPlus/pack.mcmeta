@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 61,
+    "description": "Adds crafting recipes for cobblestone and coobled deepslate to the stonecutter",    
+    "supported_formats": [61, 61]
+  }
+}
